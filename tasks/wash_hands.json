@@ -1,0 +1,12 @@
+{
+  "id": "wash_hands",
+  "title": "Lavarsi le mani",
+  "steps": [
+    { "id": 1, "title": "Apri l'acqua",     "image": "images/wash_hands/1.png" },
+    { "id": 2, "title": "Bagnati le mani",  "image": "images/wash_hands/2.png" },
+    { "id": 3, "title": "Prendi il sapone", "image": "images/wash_hands/3.png" },
+    { "id": 4, "title": "Strofina",         "image": "images/wash_hands/4.png" },
+    { "id": 5, "title": "Risciacqua",       "image": "images/wash_hands/5.png" },
+    { "id": 6, "title": "Asciuga",          "image": "images/wash_hands/6.png" }
+  ]
+}
